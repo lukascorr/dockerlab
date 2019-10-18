@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose up -d nginx mysql php-fpm workspace
+docker-compose build nginx mysql php-fpm workspace
